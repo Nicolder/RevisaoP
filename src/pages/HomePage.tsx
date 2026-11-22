@@ -17,7 +17,7 @@ export function HomePage({ onOpenSearchWithTag }: HomePageProps) {
       <section className="grid grid-cols-1 md:grid-cols-12 gap-8 items-start pt-2 md:pt-6">
         <div className="md:col-span-7 space-y-5">
           <p className="font-mono text-[11px] uppercase tracking-[0.18em] text-[#0F766E] dark:text-[#2DD4BF]">
-            Portal Acadêmico de Psicologia
+            Revisão pras provas
           </p>
 
           <h1 className="font-serif text-3xl sm:text-4xl md:text-5xl font-semibold tracking-tight leading-[1.15] pb-1 text-[#111418] dark:text-[#EDF1F5]">

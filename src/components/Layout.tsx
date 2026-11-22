@@ -95,7 +95,7 @@ export function Layout({ children, onOpenSearch }: LayoutProps) {
             className="min-h-[44px] inline-flex items-center gap-2 font-serif text-lg sm:text-xl font-semibold tracking-tight text-[#111418] dark:text-[#EDF1F5] whitespace-nowrap"
           >
             <BookOpen size={20} weight="regular" className="text-[#0F766E] dark:text-[#2DD4BF] shrink-0" />
-            <span>Revisão Psicologia</span>
+            <span>Revisão da Patyz</span>
           </Link>
 
           <nav aria-label="Navegação principal" className="hidden md:flex items-center gap-1 whitespace-nowrap">
